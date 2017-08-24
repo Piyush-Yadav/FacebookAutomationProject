@@ -5,8 +5,8 @@
     <classes>
       <class name="com.companyName.Test.TestLoginPage">
         <methods>
-          <include name="testLogin"/>
           <include name="setup"/>
+          <include name="testLogin"/>
         </methods>
       </class> <!-- com.companyName.Test.TestLoginPage -->
     </classes>
