@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.companyName.Test.TestLoginPage">
+      <class name="com.companyName.Utils.ExcelUtils">
         <methods>
-          <include name="setup"/>
-          <include name="testLogin"/>
+          <include name="testM"/>
         </methods>
-      </class> <!-- com.companyName.Test.TestLoginPage -->
+      </class> <!-- com.companyName.Utils.ExcelUtils -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
